@@ -1,0 +1,2 @@
+cài npm install -g nodemon 
+Phát hiện sự thay đổi
