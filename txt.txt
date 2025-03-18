@@ -1,2 +1,10 @@
 cài npm install -g nodemon 
 Phát hiện sự thay đổi
+
+
+npm install morgan
+npm install express-handlebars
+npm install sass --save-dev
+
+npm run sass
+=> chạy để phiên dịch
